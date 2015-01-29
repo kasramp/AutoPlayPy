@@ -18,24 +18,22 @@ For installing the above module(s),
 	$ sudo apt-get install python-tk
 ### CentOS
 	$ sudo yum install 
-##How to use  
-You can run the script with typing  
-	$ python autoPlayPy.py  
+## How to use  
+You can run the script with typing,
+
+	$ python autoPlayPy.py
 	Or  
 	$ chmod a+x autPlayPy.py  
 	$ ./autPlayPy.py  
+	
 The script accepts the following parameter(s).  
-	* --popup [true/false]  
-
-'true' : shows popup message and ask to terminate current stream if any is playing and start playing the new stream copied to clipboard.  
-
-'false' : automatically terminates the current stream if any is playing and start playing the new stream.  
-
-
-##Contact
-    - kasra@madadipouya.com  
-    - kasra_mp@live.com  
-
+* --popup [true/false]  
+ * 'true' : shows popup message and ask to terminate current stream if any is playing and start playing the new stream copied to clipboard.  
+ * 'false' : automatically terminates the current stream if any is playing and start playing the new stream.
+ 
+## Contact
+* kasra@madadipouya.com  
+* kasra_mp@live.com  
 	
 	
 

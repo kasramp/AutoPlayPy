@@ -36,18 +36,17 @@ You can run the script with typing
 	$ chmod a+x autPlayPy.py
 	$ ./autPlayPy.py
 	```
-The script accepts the following parameter(s)
-	+ --popup [true/false] 
+The script accepts the following parameter(s)  
+	+ --popup [true/false]  
 
-'true' : shows popup message and ask to terminate current stream if any is playing and start playing the new stream copied to clipboard.
+'true' : shows popup message and ask to terminate current stream if any is playing and start playing the new stream copied to clipboard.  
 
-'false' : automatically terminates the current stream if any is playing and start playing the new stream.
+'false' : automatically terminates the current stream if any is playing and start playing the new stream.  
 
 
 ##Contact
-    + kasra@madadipouya.com
-  
-    + kasra_mp@live.com
+    - kasra@madadipouya.com  
+    - kasra_mp@live.com  
 
 	
 	

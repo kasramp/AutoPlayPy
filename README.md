@@ -17,7 +17,7 @@ For installing the above module(s),
 ### Ubuntu
 	$ sudo apt-get install python-tk
 ### CentOS
-	$ sudo yum install 
+	$ sudo yum install python-tk
 ## How to use  
 You can run the script with typing,
 
@@ -35,5 +35,19 @@ The script accepts the following parameter(s).
 * kasra@madadipouya.com  
 * kasra_mp@live.com  
 	
+##License
+AutoPlayPy is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License version 3
+as published by the Free Software Foundation.
+
+AutoPlayPy is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.  <http://www.gnu.org/licenses/>
+
+Author(s):
+
+© 2015 Kasra Madadipouya <kasra@madadipouya.com>
+
 	
 

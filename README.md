@@ -57,4 +57,4 @@ GNU General Public License for more details.  <http://www.gnu.org/licenses/>
 
 Author(s):
 
-© 2015-2017 Kasra Madadipouya <kasra@madadipouya.com>
+© 2015-2018 Kasra Madadipouya <kasra@madadipouya.com>

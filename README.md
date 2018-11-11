@@ -43,7 +43,6 @@ The script accepts the following parameter(s).
  
 ## Contact
 * kasra@madadipouya.com  
-* kasra_mp@live.com  
 	
 ## License
 AutoPlayPy is free software; you can redistribute it and/or modify
